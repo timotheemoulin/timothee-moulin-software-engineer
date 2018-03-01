@@ -6,11 +6,13 @@ install:
 - npm install
 script:
 - node index.js
-deploy:
+deploy: 
+  # skip git stash --all that would remove generated files
+  skip_cleanup: true
   provider: releases
   api_key:
     secure: qFOYhyw9coJh1BFR9vBhSifLtqzu8Qpb5rjZ/WCb46DbHXYuWdP516h5NibfvxTjCN7sIZFcpDdLNtzHy0w7VuIP6wbtxWZOlFznoVo/D8vxwWnHuv2XF47hLvkW+GvY0zpOvZuQkB8YZHw7FyeVWQWHv+B/EsWzaaz5sQGNHh1kRJ1riTD565DorktdCWGwrOBIjDNdnQ61H8pC20mpKDhte6gNcdGNSN0pWbZkSllCHX9DUonEHfE2dIje+iY6y8D/hhzmKBeSfsOVusXAbrdC9b5rS894qZIBynd04eFDxClExX30tFh3qO0TYzwNym+l/tLs5ZOrEZTZ2C35K8EB2j36UbmBHxCbTfeKT3p5kF/FgCotGY3TvUr9qdOil9GuxFv+SIO+6aFlWq5C3rebgfMqsDUI4WAW7zFjgWtyABEJZIBgiqSnwXVNm1ppmtcZjLLCkMS/xcgKbyh4lGBCW6/Dle+32Ud3Fa42x7MYe+rk79YyA0vmXCHjaAWDYtQ3knHDLG8RJTGgYV854kicQFVVN/Tc5fiWF0a1rhriQEUgylXKt/uVHIzrtCzskpp7ZV/hJk/8dlcNlgGCTzwLcDN4XavCXebK6AzSCWTMQZcYeDPvUBp9NeXa8+kqPzMjR8mbK/BQmX3wa3bpeXDcJqOBX42+jieBzjXhV9g=
   file: ".pdf/build/*.pdf"
   on:
-    repo: timotheemoulin/timothee-moulin-software-engineer
-    all_branch: true
+    tags: true
+    all_branches: true
