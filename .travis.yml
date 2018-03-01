@@ -20,4 +20,4 @@ deploy:
   file: .pdf/build/README.pdf
   on:
     tags: true
-    # all_branches: true
+    all_branches: true
