@@ -4,7 +4,7 @@
 #Language: en
 -->
 
-![Timothée Moulin](.pdf/img/tim.png)
+![Timothée Moulin](.pdf/img/tim-small.png)
 
 # Timothée Moulin
 
