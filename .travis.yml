@@ -14,10 +14,10 @@ before_install:
   - "npm install -g npm@^2"
   
 install:
+- cd .pdf
 - npm install
 
 script:
-- cd .pdf
 - node index.js
 
 deploy: 
