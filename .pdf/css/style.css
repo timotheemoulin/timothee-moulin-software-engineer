@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://use.fontawesome.com/releases/v5.0.7/css/all.css');
+@import url('colors.css');
+@import url('github-markdown.css');
+
+body {
+    font-size: 0.625em;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+    color: #24292e;
+}
+
+/* fix phantomjs behaviour */
+a[href]:after {
+    content : "";
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+/* adjust the render */
+.markdown-body p,
+.markdown-body li {
+    margin-top: 0;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+/* add my face somewhere */
+.markdown-body img:first-of-type {
+    max-width: 100px;
+    max-height: 100px;
+    z-index: 100;
+    float: right;
+}
+
+.markdown-body h1,
+.markdown-body>p:nth-of-type(2) {
+    margin-right: 150px;
+}
+
+.markdown-body h1 {
+    margin-top: 0px;
+}
+
+.markdown-body strong {
+    font-family: 'Roboto-bold', sans-serif;
+}
+
+.markdown-body em {
+    font-family: 'Roboto-italic', sans-serif;
+}
+
+/* do some nice columns */
+.markdown-body hr {
+    height: 10px;
+    background-color: white;
+    margin: 0px 0;
+}
+
+.col {
+    float: left;
+}
+
+#col-1 {
+    width: 55%;
+}
+
+#col-2 {
+    margin-left: 10%;
+    width: 35%;
+}
+
+.markdown-body dl dt,
+.markdown-body dl dd {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#col-2 h2:nth-of-type(3),
+#col-2 h2:nth-of-type(2),
+#col-2 h2:nth-of-type(1),
+#col-1 h2:nth-of-type(1)
+{
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-font-smoothing:antialiased;
+    font-family:"Font Awesome 5 Free";
+}
+
+#col-2 h2:nth-of-type(3)::before {
+    content: "\f02e";
+    margin-right: 4px;
+}
+
+#col-2 h2:nth-of-type(2)::before {
+    content: "\f1ab";
+    margin-right: 4px;
+}
+
+#col-2 h2:nth-of-type(1)::before {
+    content: "\f19d";
+    margin-right: 4px;
+}
+
+#col-1 h2:nth-of-type(1)::before {
+    content: "\f121";
+    margin-right: 4px;
+}
+
+/* 
+github f09b
+linkedin f0e1
+web f25a
+*/
