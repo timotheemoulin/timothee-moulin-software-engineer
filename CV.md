@@ -98,6 +98,8 @@ I specialized myself in software development with a 2 years formation based on t
 <dl>
   <dt>Michael Erne, Virtua, PM</dt>
   <dd><a href="tel:+41796950825">+41 79 695 08 25</a></dd>
+  <dt>Anthony Callegaro, Virtua, CTO</dt>
+  <dd><a href="tel:+33695362134">+33 6 95 36 21 34</a></dd>
 </dl>
 
 </div>
