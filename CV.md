@@ -1,6 +1,6 @@
 <!---
 #Author: Timothée Moulin
-#Date : 2018-02-25
+#Date : 2019-02-04
 #Language: en
 -->
 
@@ -8,7 +8,7 @@
 
 # Timothée Moulin
 
-I am a 27 years old **Lead Software Engineer** now working at [Virtua](https://www.virtua.ch). In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
+I am a 27 years old **Lead Software Engineer / Technical Manager** now working at [Virtua](https://www.virtua.ch). In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events and businesses managing their points of sale and giving them a good overview of their current available stock.
 
 ---
 
@@ -16,12 +16,24 @@ I am a 27 years old **Lead Software Engineer** now working at [Virtua](https://w
 
 ## Experience
 
-*Sep 2016 - Present*
+*Dec 2018 - now*
+
+**Technical Manager**, *Virtua (Morges)*
+
+My role as a TM is to manage internal and offshore developers and to give them a technical support when needed. I am also involved in the pre-sale process for projects on various *OpenSource* technologies.
+
+* Human Resource management on a small team
+* Technical expertise
+* Pre-sale and customer advice
+
+---
+
+*Sep 2016 - Dec 2018*
 
 **Lead Software Engineer**, *Virtua (Morges)*
 
-I am now leading Virtua's Customer Care department. We are in charge of the maintenance and development of CRM applications and international companies websites.
-We are also helping the engineering department in the improvement of the delivery and quality processes.
+I have been leading Virtua's Customer Care department for two years. The department was in charge of the maintenance and development of CRM applications and global companies websites.
+We were also helping the engineering department in the improvement of the delivery and quality processes.
 
 * Technical lead on various projects (*e-shop*, *CRM*, corporate website) and technologies (*Drupal 7*, *Zend Framework*, *Symfony3*, *Wordpress*)
 * Intern and offshore development management
@@ -33,7 +45,7 @@ We are also helping the engineering department in the improvement of the deliver
 
 **Software Engineer**, *Virtua (Morges)*
 
-I was in charge of the evolution and new features development for websites and CRM applications used by international companies.
+I have been in charge of the maintenance and new features development for websites and CRM applications used by international companies.
 
 * *Zend Framework* development mainly for Calleo CRM projects.
 * *Drupal 7* development for multi-domain web platforms with custom publication workflows
