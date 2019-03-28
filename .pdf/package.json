@@ -4,7 +4,7 @@
   "description": "Timothée Moulin Software Engineer Résumé",
   "main": "index.js",
   "dependencies": {
-    "markdown-pdf": "^8.0.0",
+    "markdown-pdf": "^9.0.0",
     "remarkable-classy": "0.0.1",
     "split": "^1.0.1",
     "through": "^2.3.8"
