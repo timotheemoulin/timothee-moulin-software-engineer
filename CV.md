@@ -1,6 +1,6 @@
 <!---
 #Author: Timothée Moulin
-#Date : 2018-02-25
+#Date : 2018-03-28
 #Language: en
 -->
 
@@ -8,7 +8,7 @@
 
 # Timothée Moulin
 
-I am a 26 years old **Lead Software Engineer** now working at [Virtua](https://www.virtua.ch). In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
+I am a 27 years old **Lead Software Engineer** now working at [Virtua](https://www.virtua.ch). In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
 
 ---
 
@@ -96,8 +96,8 @@ I specialized myself in software development with a 2 years formation based on t
 ## References
 
 <dl>
-  <dt>Michael Erne, Virtua, PM</dt>
-  <dd><a href="tel:+41796950825">+41 79 695 08 25</a></dd>
+  <dt>Alexandre Miranda, Virtua, Production Director</dt>
+  <dd><a href="tel:+41788300098">+41 78 830 00 98</a></dd>
   <dt>Anthony Callegaro, Virtua, CTO</dt>
   <dd><a href="tel:+33695362134">+33 6 95 36 21 34</a></dd>
 </dl>
