@@ -5,43 +5,43 @@ var duplexer = require("duplexer"),
     fs = require('fs'),
     markdownpdf = require("markdown-pdf"),
     split = require("split"),
-    through = require("through")
+    through = require("through");
 
 var mdDocs = [
-    "../CV.md",
+        "../CV.md",
     ],
     bookPath = "build/Timothée Moulin - Software engineer",
     options = {
         cwd: '../',
         cssPath: 'css/style.css',
         paperBorder: '1cm',
-        preProcessMd: function() {
+        preProcessMd: function () {
             // Split the input stream by lines
             var splitter = split()
             var replacer = through(function (data) {
-              this.queue(data
-                .replace(/__________/g, '<div class="pagebreak"></div>\n\n') // Replace occurences of "__________" with a page break
-                + "\n")
-            })
-            splitter.pipe(replacer)
-            return duplexer(splitter, replacer)
+                this.queue(data
+                        .replace(/__________/g, '<div class="pagebreak"></div>\n\n') // Replace occurences of "__________" with a page break
+                    + "\n")
+            });
+            splitter.pipe(replacer);
+            return duplexer(splitter, replacer);
         },
-        preProcessHtml: function() {
+        preProcessHtml: function () {
             return through(function (data) {
                 fs.writeFile(bookPath + ".html", data);
-                this.queue('<div class="markdown-body">\n\n' + data + '\n\n</div>')
+                this.queue('<div class="markdown-body">\n\n' + data + '\n\n</div>');
             });
         },
         remarkable: {
             html: true,
             breaks: true,
-            plugins: [ require('remarkable-classy') ],
-            syntax: [ 'footnote', 'sup', 'sub' ],
+            plugins: [require('remarkable-classy')],
+            syntax: ['footnote', 'sup', 'sub'],
             typographer: true
         },
         runningsPath: 'runnings.js'
-    }
+    };
 
 markdownpdf(options).concat.from(mdDocs).to(bookPath + ".pdf", function () {
-  console.log("Created", bookPath + ".pdf")
+    console.log("Created", bookPath + ".pdf");
 });
