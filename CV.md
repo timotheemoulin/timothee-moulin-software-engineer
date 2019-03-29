@@ -8,7 +8,8 @@
 
 # Timothée Moulin
 
-I am a 27 years old **Lead Software Engineer** now working at [Virtua](https://www.virtua.ch). In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
+I am a 27 years old **Technical Manager** now working at [Virtua](https://www.virtua.ch). 
+In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
 
 ---
 
@@ -16,15 +17,29 @@ I am a 27 years old **Lead Software Engineer** now working at [Virtua](https://w
 
 ## Experience
 
-*Sep 2016 - Present*
+*Dec 2018 - Present*
+
+**Technical Manager**, *Virtua (Morges)*
+
+I am now in charge of the management of Virtua's CMS and eCommerce team. This includes HR responsibilities, technical support, and a global view of the company organization and objectives.
+Knowledge sharing and capitalisation across projects is one of my many goals.
+
+* Technical support for the development team
+* Intern and offshore teams management
+* *Human Resources* management
+* *Pre-sale* analysis and consulting 
+
+---
+
+*Sep 2016 - Dec 2018*
 
 **Lead Software Engineer**, *Virtua (Morges)*
 
-I am now leading Virtua's Customer Care department. We are in charge of the maintenance and development of CRM applications and international companies websites.
-We are also helping the engineering department in the improvement of the delivery and quality processes.
+I have been leading Virtua's Customer Care department for over two years. We were in charge of the maintenance and development of CRM applications and international companies websites.
+We were also helping the engineering department in the improvement of the delivery and quality processes.
 
-* Technical lead on various projects (*e-shop*, *CRM*, corporate website) and technologies (*Drupal 7*, *Zend Framework*, *Symfony3*, *Wordpress*)
-* Intern and offshore development management
+* Technical lead on various projects (*e-shop*, *CRM*, corporate website) and technologies (*Drupal 7*, *Zend Framework*, *Symfony*, *WordPress*)
+* Intern and *offshore* development management
 * Customer relationship and project management
 
 ---
@@ -78,7 +93,7 @@ I finished my first technical school with a 2 years internship in a small IT com
 
 **PET Degree in Information Technology**, *Centre Professionnel Nord Vaudois (Ste-Croix)*
 
-I specialized myself in software development with a 2 years formation based on the usage of various PHP and JavaScript frameworks, complex database conception, virtualisation. I also learned to work with UI tools and the basics of agile methodology.
+I specialized myself in software development with a 2 years formation based on the usage of various PHP and JavaScript frameworks, complex database conception, and virtualisation. I also learned to work with UI tools and the basics of project management.
 
 ---
 

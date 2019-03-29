@@ -13,7 +13,7 @@ exports.footer = {
     var text = "<footer><p>Timothée Moulin&nbsp;-&nbsp;Software Engineer";
     text +=  "&nbsp;-&nbsp;<a href=\"mailto:hello@timothee-moulin.me\">hello@timothee-moulin.me</a>";
     text += "&nbsp;-&nbsp;<a href=\"+41792651668\">+41 79 265 16 68</a></p>";
-    text += "<p>Le Bourg 248, 1618 Châtel-St-Denis</p>";
+    text += "<p>Route de Cossonay 11, 1008 Prilly</p>";
     // text +=  "&copy; "+new Date().getFullYear()+" and beyond, All rights reserved.";
     text += "</footer>";
     text += "<style>@import url('style.css');"
