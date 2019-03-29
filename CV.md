@@ -24,7 +24,7 @@ In my spare time I am involved in the development of [Instant Stock](https://ins
 I am now in charge of the management of Virtua's CMS and eCommerce team. This includes HR responsibilities, technical support, and a global view of the company organization and objectives.
 Knowledge sharing and capitalisation across projects is one of my many goals.
 
-* Technical support for the development team
+* Technical expertise for the development team
 * Intern and offshore teams management
 * *Human Resources* management
 * *Pre-sale* analysis and consulting 
@@ -48,7 +48,7 @@ We were also helping the engineering department in the improvement of the delive
 
 **Software Engineer**, *Virtua (Morges)*
 
-I was in charge of the evolution and new features development for websites and CRM applications used by international companies.
+I have been in charge of the maintenance and new features development for websites and CRM applications used by international companies.
 
 * *Zend Framework* development mainly for Calleo CRM projects.
 * *Drupal 7* development for multi-domain web platforms with custom publication workflows
