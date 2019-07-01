@@ -8,8 +8,8 @@
 
 # Timothée Moulin
 
-I am a 27 years old **Technical Manager** now working at [Virtua](https://www.virtua.ch). 
-In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events to have a better overview of their points of sale.
+I am a 27 years old **Technical Manager / Software Engineer** now working at [Virtua](https://www.virtua.ch). 
+In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events and shops to have a better overview of their points of sale.
 
 ---
 
