@@ -111,10 +111,10 @@ I specialized myself in software development with a 2 years formation based on t
 ## References
 
 <dl>
-  <dt>Alexandre Miranda, Virtua, Production Director</dt>
-  <dd><a href="tel:+41788300098">+41 78 830 00 98</a></dd>
-  <dt>Anthony Callegaro, Virtua, CTO</dt>
-  <dd><a href="tel:+33695362134">+33 6 95 36 21 34</a></dd>
+  <dt>Virtua</dt>
+  <dd>Alexandre Miranda, Production Director</dd>
+  <dt>Virtua</dt>
+  <dd>Anthony Callegaro, CTO<dd>
 </dl>
 
 </div>
