@@ -8,7 +8,7 @@
 
 # Timothée Moulin
 
-I am a 28 years old **Technical Manager / Software Engineer** now working at [Virtua](https://www.virtua.ch). 
+I am a **Technical Manager / Software Engineer** now working at [/boomerang](https://www.boomerang.ch). 
 In my spare time I am involved in the development of [Instant Stock](https://instant-stock.ch/), a web based system helping events and shops to have a better overview of their points of sale.
 
 ---
@@ -17,11 +17,17 @@ In my spare time I am involved in the development of [Instant Stock](https://ins
 
 ## Experience
 
-*Dec 2018 - Present*
+*Oct 2019 - Present*
+
+**Fullstack web developer**, */boomerang marketing (Sierre)*
+
+I am now helping /boomerang in our technical turn from a closed source (home made) CMS to a brand new WordPress integration and customization.
+
+*Dec 2018 - Sep 2019*
 
 **Technical Manager**, *Virtua (Morges)*
 
-I am now in charge of the management of Virtua's CMS and eCommerce team. This includes HR responsibilities, technical support, and a global view of the company organization and objectives.
+I have been in charge of the management of Virtua's CMS and eCommerce team. This includes HR responsibilities, technical support, and a global view of the company organization and objectives.
 Knowledge sharing and capitalisation across projects is one of my many goals.
 
 * Technical expertise for the development team
