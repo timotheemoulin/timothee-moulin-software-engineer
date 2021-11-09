@@ -4,7 +4,7 @@
 #Language: en
 -->
 
-![Timothée Moulin](.pdf/img/tim-small.png)
+![Timothée Moulin](https://avatars.githubusercontent.com/u/1841590?v=4)
 
 # Timothée Moulin
 
